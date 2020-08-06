@@ -1,0 +1,2 @@
+conda activate selenium
+python D:\local\works\projects\coronabot\coronabot.py
